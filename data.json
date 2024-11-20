@@ -1,0 +1,77 @@
+{
+    "headline": 
+        {
+            "image": "src",
+            "title" : "our most used recipes",
+            "description": "reach the world's popular recipies by here"
+        },
+    "regime":[
+        {
+            "image": "src",
+            "title" : "diet",
+            "description": "foods with less sugar",
+            "button": "see more"
+        },
+        {
+            "image": "src",
+            "title" : "sas-gluten",
+            "description": "foods with none gluten",
+            "button": "see more"
+        },
+        {
+            "image": "src",
+            "title" : "without meat",
+            "description": "foods without meat",
+            "button": "see more"
+        }
+    ],
+    "places": [
+        {
+            "image": "src",
+            "title" : "italian food",
+            "quote" : "we'll get u closer to roma",
+            "description": "the world seems nicer when u can eat spaghetti"
+        },
+        {
+            "image": "src",
+            "title" : "moroccan food",
+            "quote" : "welcome to moroccan culture",
+            "description": "do you wanna try some tajins?"
+        },
+        {
+            "image": "src",
+            "title" : "american food",
+            "quote" : "chill and make a burger",
+            "description": "sometimes you just need some fast food"
+        }
+    ],
+    "popular":[
+        {
+            "image": "src",
+            "title" : "imansi",
+            "description": "you can never hate eating imansi ",
+            "button" : "go to recepie"
+        },
+        {
+            "image": "src",
+            "title" : "spaghetti with meat",
+            "description": "life feels dazed when not eating",
+            "button" : "go to recepie"
+        },
+        {
+            "image": "src",
+            "title" : "tajine ",
+            "description": "the best mix between vegetables and meat",
+            "button" : "go to recepie"
+        },
+        {
+            "image": "src",
+            "title" : "",
+            "description": "sometimes you justneed some fast food",
+            "button" : "go to recepie"
+        }
+        
+    ]
+
+
+}
